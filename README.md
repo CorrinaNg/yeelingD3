@@ -1,9 +1,9 @@
 # yeelingD3
 Was testing out the GitHub shell
 
-Commands used 
-git clone URL
-git checkout --orphan gh-pages
+Commands used <br>
+git clone URL <br>
+git checkout --orphan gh-pages <br>
 echo "here is some simple web content" > index.html
 git status 
 git add .
